@@ -1,0 +1,1 @@
+width = band->GetXSize();
